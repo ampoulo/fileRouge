@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fileRouge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/fileRouge.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
