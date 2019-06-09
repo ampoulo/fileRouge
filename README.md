@@ -1,8 +1,8 @@
 ﻿/*--------------------------------------------------------------------------------------------------------------------------------------------------
-    Mouhamadou Ousmane Mbaye [21612706] 
-    NDZAMBO OKMEBA KENNELVY [21810907] L3INFO
-    Zafimamy Jary Avitsara [21208468]  
-    Romuald Pradal [21502222]
+    Mouhamadou Ousmane Mbaye (partie planning) 
+    NDZAMBO OKMEBA KENNELVY (partie backtracking)
+    Zafimamy Jary Avitsara (partie extraction et diagnosis)
+    Romuald Pradal (partie extraction et diagnosis)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------*/
 
@@ -106,7 +106,7 @@ Diagnosis:
 SOUS PACKAGE:
     Test:
         class:
-            C1: Qui represente la contriantre( x1 && x2 --> x3) donne en exemple CM 
+            C1: Qui represente la contrainte( x1 && x2 --> x3) donne en exemple CM 
             C2: Qui represente la contrainte (¬x3 --> x4) donner ausssi en exemple en CM 
             DiagnoTest: (classe exécutable) Qui faire un test de la class Diagnoser sur l'exemple vu en cours avec les contraintre C1 ET C2 
 
